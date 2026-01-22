@@ -1,5 +1,3 @@
-Since you are nearing the end of your 4-hour limit, here is a complete, professional README.md tailored exactly to the requirements in your exam PDF. This draft assumes you used the local state approach with recipes.json.
-
 Recipe Manager Application
 Project Description
 A modern, responsive React application built with Vite and Tailwind CSS that allows users to browse, search, and manage recipes. The application features a dual-filtering system (by title or ingredient), a favorites management system, and full CRUD capabilities for custom-added recipes. This project was developed as part of a technical assessment to demonstrate proficiency in React state management, UI/UX design with shadcn/ui, and data persistence.
